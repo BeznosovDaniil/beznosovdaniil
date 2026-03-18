@@ -134,7 +134,7 @@
 - 📌 Нефункциональные тест-кейсы  
 - 📌 Тест-план и тестовая документация  
 
-👉 **[Посмотреть можно здесь]
+👉 **[Посмотреть можно здесь](https://drive.google.com/file/d/1ssZEeJOKNNoUkG-qmBCJQukdpkQQCOQa/view?usp=drive_link)
 
 ## 📫 Связаться со мной
 - 📬 Telegram: [@bizness_project](https://t.me/bizness_project)
